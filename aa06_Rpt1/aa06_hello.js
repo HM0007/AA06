@@ -1,2 +1,2 @@
-console.log("Hello Arduino Advanced!");
-console.log("AA06, AA06, 김창욱");
+console.log("Hello Node.js");
+console.log("AA06, 김창욱");
